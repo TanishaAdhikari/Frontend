@@ -1,0 +1,16 @@
+.success{
+    background-color:red;
+    color:white;
+}
+.error{
+    background-color:green;
+    color:white;
+}
+.warning{
+    background-color:yellow;
+    color:black;
+}
+.navlink{
+    margin-right:10px;  /* space dina lai use huncha */
+
+}
