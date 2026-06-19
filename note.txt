@@ -1,0 +1,15 @@
+1) React considers Tag as data
+2) We can store and return Tag
+3) function can return only one tag
+4) Use {} inside tag to perform js operation (+ , -,..... variable call,)
+5) basics of html( component: address father mother info)rafce tab
+//aafai banako lai component vancha
+//opening tag ko vitra aru lekheko lai props vancha ani opening tag ra closing
+tag ko bich ma lekheko lai children vancha
+// 
+
+userState hook
+react-router-dom
+form
+hit api
+useEffect hook
